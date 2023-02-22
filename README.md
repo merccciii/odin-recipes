@@ -1,0 +1,2 @@
+This is the first project tackling HTML in The Odin Project. 
+Completion of this project will familiarise me in using git, the terminal and putting my html knowledge to the test. The website will consist of a main index page which will have links to a few recipes. 
